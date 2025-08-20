@@ -1,0 +1,3 @@
+This is an Odin Project exercise for a recipe app.
+
+Skills...
